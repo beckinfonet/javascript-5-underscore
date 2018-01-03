@@ -10,6 +10,7 @@
 
 (function() {
 
+  
   /**
    * ## Require &amp; Instantiate
    *
